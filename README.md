@@ -26,7 +26,6 @@ An end-to-end analysis of Superstore transactional data, from data quality check
 13. [Key Insights](#key-insights)
 14. [Recommendations](#recommendations)
 15. [How to Use / Repository Structure](#how-to-use--repository-structure)
-16. [Author & Contact](#author--contact)
 
 ---
 
